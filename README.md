@@ -1,6 +1,6 @@
 # Hotel-reservation-analysis
 
-## Topic: Hotel Booking Demand - Hotel reservations including cancellations, booking dates, lead time.
+## Hotel Booking Demand - Hotel reservations including cancellations, booking dates, lead time.
 
 ## Link to the dataset📂: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction/data
 
